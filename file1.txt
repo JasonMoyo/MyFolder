@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Content of file 1" 
+=======
+"Hello from file 1"
+>>>>>>> 778a0e7c70cfcf902980c3dcbe893277ccb41c6e
